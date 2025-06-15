@@ -198,9 +198,6 @@ The system tracks multiple performance indicators:
 ## Sample Output
 
 ```
-================================================================================
- AI-POWERED IPL BEST XI PREDICTION
-================================================================================
 
  TEAM COMPOSITION:
 Total Players: 11
